@@ -1,0 +1,9 @@
+Package: ied.safe.robloxdumper
+Name: RobloxDumper
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Description: An awesome MobileSubstrate tweak!
+Maintainer: ra1nbolt
+Author: ra1nbolt
+Section: Tweaks
+#Depends: mobilesubstrate (>= 0.9.5000)
